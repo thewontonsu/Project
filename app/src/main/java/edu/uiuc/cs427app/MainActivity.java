@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         setContentView(R.layout.activity_main);
 
         // Initializing the UI components
+        // Random line as a proof of concept
         // The list of locations should be customized per user (change the implementation so that
         // buttons are added to layout programmatically
         Button buttonChampaign = findViewById(R.id.buttonChampaign);
