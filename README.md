@@ -6,7 +6,7 @@ The code for CS427 Android app.
 
 | Name | NetID | GitHub ID | Role | Experience |
 |------|-------|-----------|------|------------|
-| Wilson Su      |  wilsons2     |   thewontonsu        |   Developer   |  Python          |
+| Wilson Su      |  wilsons2     |   thewontonsoup        |   Developer   |  Python          |
 |  Aryan Arora    |  aarora14     |     aroaryan      |   Manager   |  C++ / Python / Java / Swift         |
 |   David Jimenez   |       |           |      |            |
 |  Rohit Gupta    |       |           |      |            |
