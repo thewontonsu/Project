@@ -2,18 +2,17 @@
 
 The code for CS427 Android app.
 
-## Team #XYZ member information
-(Replace XYZ with your team number)
+## Team #302 member information
 
 | Name | NetID | GitHub ID | Role | Experience |
 |------|-------|-----------|------|------------|
-| Wilon Su      |       |           |      |            |
-|      |       |           |      |            |
-|      |       |           |      |            |
-|      |       |           |      |            |
-|      |       |           |      |            |
-|      |       |           |      |            |
-|      |       |           |      |            |
+| Wilson Su      |  wilsons2     |   thewontonsu        |   Developer   |  Python          |
+|  Aryan Arora    |  aarora14     |     aroaryan      |   Manager   |  C++ / Python / Java / Swift         |
+|   David Jimenez   |       |           |      |            |
+|  Rohit Gupta    |       |           |      |            |
+|  Yifan Li    |       |           |      |            |
+|  Rouxi Li    |       |           |      |            |
+|   Kalkidan Tefera   |       |           |      |            |
 |      |       |           |      |            |
 
 ## Weekly Progress Reports
