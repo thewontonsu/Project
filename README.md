@@ -7,7 +7,7 @@ The code for CS427 Android app.
 
 | Name | NetID | GitHub ID | Role | Experience |
 |------|-------|-----------|------|------------|
-|      |       |           |      |            |
+| Wilon Su      |       |           |      |            |
 |      |       |           |      |            |
 |      |       |           |      |            |
 |      |       |           |      |            |
