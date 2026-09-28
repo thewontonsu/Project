@@ -8,10 +8,10 @@ The code for CS427 Android app.
 |------|-------|-----------|------|------------|
 | Wilson Su      |  wilsons2     |   thewontonsoup        |   Developer   |  Python          |
 |  Aryan Arora    |  aarora14     |     aroaryan      |   Manager   |  C++ / Python / Java / Swift         |
-|   David Jimenez   |       |           |      |            |
+|   David Jimenez   |       |  jimenez1         |      |            |
 |  Rohit Gupta    |       |           |      |            |
-|  Yifan Li    |       |           |      |            |
-|  Rouxi Li    |       |           |      |            |
+|  Yifan Li    |       |  Liruihuanpaishou1    |   Developer   |            |
+|  Rouxi Li    | rouxili2      |  R-524         |  Developer    |  Python / Java          |
 |   Kalkidan Tefera   |       |           |      |            |
 |      |       |           |      |            |
 
