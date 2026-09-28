@@ -10,7 +10,7 @@ The code for CS427 Android app.
 |  Aryan Arora    |  aarora14     |     aroaryan      |   Manager   |  C++ / Python / Java / Swift         |
 |   David Jimenez   |       |  jimenez1         |      |            |
 |  Rohit Gupta    |       |           |      |            |
-|  Yifan Li    |  yifanl23     |  Liruihuanpaishou1    |   Developer   | Python / Java / C++           |
+|  Yifan Li    |  yifanl23     |  Liruihuanpaishou1    |   Tech lead   | Python / Java / C++           |
 |  Rouxi Li    | rouxili2      |  R-524         |  Developer    |  Python / Java          |
 |   Kalkidan Tefera   |       |           |      |            |
 |      |       |           |      |            |
