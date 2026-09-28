@@ -1,4 +1,4 @@
-# Project
+# DEFUNCT REPO DO NOT USE
 
 The code for CS427 Android app.
 
