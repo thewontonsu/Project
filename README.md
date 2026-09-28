@@ -17,8 +17,8 @@ The code for CS427 Android app.
 
 ## Weekly Progress Reports
 
-**Meeting time:**
-**Meeting location (Zoom link):**
+**Meeting time: Monday 8-9 am**
+**Meeting location (Zoom link): https://illinois.zoom.us/j/2179912960?pwd=WHN3RjZNRUVrV2lmSFNHaEgzN1BrZz09**
 
 ### Project Week 1
 
